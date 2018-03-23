@@ -2,4 +2,4 @@ Here are some useful links about this project :
 
 1. youtube video of this project : take some time to live
 2. more explanation on my website : https://md-arshad.herokuapp.com
-3. download executable jar file and images used in this project: https://md-arshad.herokuapp.com/download/java/oes.jar
+3. download executable jar file and images used in this project: https://md-arshad.herokuapp.com/download/java/oes.rar
